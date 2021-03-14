@@ -5,7 +5,7 @@
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/FiimeOS.git -b eleven
+repo init -u https://github.com/adrian-8901/FiimeOS.git -b eleven
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
