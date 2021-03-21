@@ -19,7 +19,8 @@
            sync-j="4" />
 
   <remote name="sakura"
-          fetch="https://github.com/ProjectSakura" />
+          fetch="https://github.com/ProjectSakura" 
+          revision="11" />
 
   <!-- AOSP Projects -->
 
